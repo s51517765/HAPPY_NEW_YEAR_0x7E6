@@ -13,6 +13,7 @@ Genetic algorithm（遺伝的アルゴリズム）で 2022 年を目指します
 Python3
 
 ## 技術的解説 (Technical explanation)
+https://s51517765.hatenadiary.jp/entry/2022/01/03/073000
 
 ・初期個体を生成<br>
 Do<br>
